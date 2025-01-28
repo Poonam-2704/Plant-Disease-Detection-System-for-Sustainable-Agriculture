@@ -51,7 +51,7 @@ Sample Predictions: Correct classifications and areas of improvement.
 
 🚀 Installation
 Clone the repository:
-git clone https://github.com/Poonam-2704/Plant-Disease-Detection-System-for-Sustainable-Agriculture/tree/main.git
+git clone https://github.com/Poonam-2704/Plant-Disease-Detection-System-for-Sustainable-Agriculture.git
 cd plant-disease-classification
 
 Install dependencies:
