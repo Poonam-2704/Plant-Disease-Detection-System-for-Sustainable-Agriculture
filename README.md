@@ -2,17 +2,6 @@
 
 An advanced Convolutional Neural Network (CNN) model for detecting and classifying plant diseases from leaf images. This project aims to assist farmers and agriculturists in identifying diseases early, ensuring timely treatment and improved crop health.
 
-📋 Table of Contents
-About the Project
-Key Features
-Technologies Used
-Dataset
-Model Architecture
-Results
-Installation
-Usage
-Contributing
-
 🌟 About the Project
 This project leverages deep learning to classify plant diseases with high accuracy. By analyzing images of leaves, the CNN model identifies the type of disease, enabling precise and data-driven agricultural decision-making.
 
