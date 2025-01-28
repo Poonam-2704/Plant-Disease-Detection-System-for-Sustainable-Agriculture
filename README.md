@@ -21,6 +21,7 @@ Jupyter Notebook: For experimentation and analysis
 
 📂 Dataset
 Source: C:\Edunet\Dataset
+
 Size: [Number of images and total size, e.g., 50,000 images and 2 GB]
 Classes: Includes diseases like [list a few diseases, e.g., Powdery Mildew, Leaf Spot, Rust, etc.].
 Format: JPEG/PNG images categorized by folder.
@@ -40,6 +41,7 @@ Training Accuracy: [e.g., 95%]
 Validation Accuracy: [e.g., 93%]
 Confusion Matrix: [Include or link to a visualization]
 Sample Predictions: Correct classifications and areas of improvement.
+
 ![Screenshot 2025-01-28 201845](https://github.com/user-attachments/assets/39a90120-fceb-430f-a179-e7b66fcafaab)
 ![Screenshot 2025-01-28 201959](https://github.com/user-attachments/assets/1faa4d2a-9b85-4c86-afd3-9234534aaefb)
 ![Screenshot 2025-01-28 201945](https://github.com/user-attachments/assets/94de9d00-ac47-4caa-9ba0-0b2e8961290a)
@@ -49,7 +51,7 @@ Sample Predictions: Correct classifications and areas of improvement.
 
 🚀 Installation
 Clone the repository:
-git clone https://github.com/yourusername/plant-disease-classification.git
+git clone https://github.com/Poonam-2704/Plant-Disease-Detection-System-for-Sustainable-Agriculture/tree/main.git
 cd plant-disease-classification
 
 Install dependencies:
