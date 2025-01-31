@@ -3,9 +3,11 @@
 An advanced Convolutional Neural Network (CNN) model for detecting and classifying plant diseases from leaf images. This project aims to assist farmers and agriculturists in identifying diseases early, ensuring timely treatment and improved crop health.
 
 🌟 About the Project
+
 This project leverages deep learning to classify plant diseases with high accuracy. By analyzing images of leaves, the CNN model identifies the type of disease, enabling precise and data-driven agricultural decision-making.
 
 ✨ Key Features
+
 Accurate Disease Detection: High accuracy in identifying multiple plant diseases.   
 Custom CNN Model: Optimized architecture tailored for image classification.   
 Scalable Solution: Handles large datasets and diverse plant species.   
@@ -13,6 +15,7 @@ Confusion Matrix & Metrics: Detailed analysis of model performance.
 Data Augmentation: Improves model generalization through random transformations.    
 
 🛠️ Technologies Used
+
 Programming Language: Python.   
 Deep Learning Framework: TensorFlow and Keras.     
 Visualization: Matplotlib, Seaborn.   
@@ -20,6 +23,7 @@ Data Processing: NumPy, Pandas.
 Jupyter Notebook: For experimentation and analysis.    
 
 📂 Dataset
+
 Source: C:\Edunet\Dataset.   
 
 Size: [Number of images and total size, e.g., 50,000 images and 2 GB].    
@@ -27,6 +31,7 @@ Classes: Includes diseases like [list a few diseases, e.g., Powdery Mildew, Leaf
 Format: JPEG/PNG images categorized by folder. 
 
 🧠 Model Architecture
+
 The model uses a custom Convolutional Neural Network with the following key layers:
 
 Convolutional Layers: Extract features from input images.  
@@ -38,6 +43,7 @@ Loss Function: Sparse Categorical Crossentropy.
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score.   
 
 📊 Results
+
 Training Accuracy: [e.g., 95%].  
 Validation Accuracy: [e.g., 93%].  
 Confusion Matrix: [Include or link to a visualization].   
@@ -47,6 +53,9 @@ Sample Predictions: Correct classifications and areas of improvement.
 ![Screenshot 2025-01-28 201959](https://github.com/user-attachments/assets/1faa4d2a-9b85-4c86-afd3-9234534aaefb)
 ![Screenshot 2025-01-28 201945](https://github.com/user-attachments/assets/94de9d00-ac47-4caa-9ba0-0b2e8961290a)
 
+![Screenshot 2025-01-28 202121](https://github.com/user-attachments/assets/b2b29da8-d817-400a-91dc-f1297f5e8bfd)
+
+![Screenshot 2025-01-28 202101](https://github.com/user-attachments/assets/1036896a-d144-4c3c-a79b-1ebb1f9f705c)
 
 
 
